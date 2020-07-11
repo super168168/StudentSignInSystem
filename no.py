@@ -1,0 +1,2 @@
+import wavbox
+wavbox.wavrec()
